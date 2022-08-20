@@ -1,0 +1,38 @@
+.sa{
+color: greenyellow;
+margin-left:100px;
+}
+.sa:hover{
+color: red;
+}
+.sometext{
+color: gold;
+}
+.sometext:nth-child(2) {color: blue;
+}
+
+.hetaqrqir:first-letter{color
+: darkorange;
+}
+form input{
+ background-color: blueviolet;
+}
+.a{
+background:chartreuse;
+content:inherit;
+}
+.HA{background-image:url(/images/css%20hamar.png);
+    height:200px;
+   width: 150px;
+}
+.mydiv{
+      width:728px;
+      height:542px;
+      background-image: url(/images/esiya.png);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      display: flex;
+       margin-left: 500px;
+      padding: 20px;
+     
+}
